@@ -12,7 +12,6 @@
 
 ## Requerimientos e instalación
 
-- Python 3.x.x
 - Instalar tkinter
 
 ## Librerias necesarias
