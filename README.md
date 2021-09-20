@@ -1,4 +1,4 @@
-# Tarea Algoritmo de búsqueda ciega y heurística
+# Tarea Algoritmo de Búsqueda Ciega y Heurística
 
 ## Lenguaje
 
