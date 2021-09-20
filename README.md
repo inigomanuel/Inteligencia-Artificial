@@ -16,5 +16,25 @@
 
 ## Ejemplos Probados
 
+### Datos
+
 - Algoritmo Ciego
+  - n=50
+  - x inicio=2
+  - y inicio=2
+
+  - x final=46
+  - y final=45
+
+
+
 - Algoritmo Heurístico
+
+  - n=50
+  - x inicio=2
+  - y inicio=4
+
+  - x final=45
+  - y final=39
+
+  
