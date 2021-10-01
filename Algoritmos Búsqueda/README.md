@@ -31,7 +31,7 @@
   - x final=46
   - y final=45
 
-![Alt text](https://github.com/inigomanuel/Inteligencia-Artificial/blob/main/Pictures/res_cieg.png)
+![Alt text](https://github.com/inigomanuel/Inteligencia-Artificial/blob/main/Algoritmos%20Búsqueda/Pictures/res_cieg.png)
 
 - Algoritmo Heurístico
 
@@ -42,4 +42,4 @@
   - x final=45
   - y final=39
 
-  ![Alt text](https://github.com/inigomanuel/Inteligencia-Artificial/blob/main/Pictures/res_heu.png)
+  ![Alt text](https://github.com/inigomanuel/Inteligencia-Artificial/blob/main/Algoritmos%20Búsqueda/Pictures/res_heu.png)
