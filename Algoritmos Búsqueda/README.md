@@ -2,9 +2,7 @@
 
 ## Integrantes
 
-- Fabricio Baca
 - Iñigo Diez Canseco Fuentes
-- Ludwin Olivares
 
 ## Lenguaje
 
