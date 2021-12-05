@@ -17,3 +17,7 @@
 
 - Juego de Mesa Damas
 
+## Proyecto Final
+
+- Searching for MobileNetV3 (Modificado y Ejecutado)
+
