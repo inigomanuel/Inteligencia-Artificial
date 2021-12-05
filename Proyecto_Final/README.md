@@ -1,9 +1,11 @@
-# Tarea Algoritmo de Búsqueda Ciega y Heurística
+# Tarea Algoritmo de BÃºsqueda Ciega y HeurÃ­stica
 
 
 ## Integrantes
 
-- Iñigo Diez Canseco Fuentes
+- IÃ±igo Diez Canseco Fuentes
+
+##Objetivo del Trabajo
 
 
 ## Lenguaje
@@ -11,11 +13,27 @@
 [![Python Versions](https://img.shields.io/badge/python-3.6%20%7C%203.7%20%7C%203.8-blue)](https://www.python.org/downloads/release/python-382/)
 
 
-## Algoritmos de Búsqueda
+## Librerias Utilizadas
 
-- Algoritmo Ciego
-- Algoritmo Hill Climbing
+- os
+- tarfile
+- tempfile
+- urllib
+- matplotlib
+- numpy
+- PIL
+- tensorflow
 
-## Juego de Damas
+## CrÃ©ditos por el Proyecto "Searching for MobileNetV3"  https://paperswithcode.com/paper/searching-for-mobilenetv3
 
-- Juego de Mesa Damas
+- Andrew Howard
+- Mark Sandler
+- Grace Chu
+- Liang-Chieh Chen
+- Bo Chen, Mingxing Tan
+- Weijun Wang
+- Yukun Zhu
+- Ruoming Pang
+- Vijay Vasudevan
+- Quoc V. Le
+- Hartwig Adam 
