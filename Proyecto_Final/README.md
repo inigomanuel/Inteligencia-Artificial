@@ -7,7 +7,7 @@
 
 ## Objetivo del Trabajo
 
-El objetivo es poder ejecutar un trabajo de investigación ya existente y comprobar sus resultados.
+- El objetivo es poder ejecutar un trabajo de investigación ya existente y comprobar sus resultados.
 
 ## Lenguaje
 
