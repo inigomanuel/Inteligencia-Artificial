@@ -13,6 +13,9 @@ El objetivo es poder ejecutar un trabajo de investigación ya existente y compro
 
 [![Python Versions](https://img.shields.io/badge/python-3.6%20%7C%203.7%20%7C%203.8-blue)](https://www.python.org/downloads/release/python-382/)
 
+## Recomendaciones
+
+- Sugiero para este proyecto que tengan sus propias imágenes guardadas en una carpeta de "Drive" y así solo modificar la sección donde jalo las imágenes del drive y las utilizo. 
 
 ## Librerias Utilizadas
 
