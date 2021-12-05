@@ -7,6 +7,7 @@
 
 ##Objetivo del Trabajo
 
+El objetivo es poder ejecutar un trabajo de investigación ya existente y comprobar sus resultados.
 
 ## Lenguaje
 
@@ -24,7 +25,7 @@
 - PIL
 - tensorflow
 
-## Créditos por el Proyecto "Searching for MobileNetV3"  https://paperswithcode.com/paper/searching-for-mobilenetv3
+## Créditos por el Proyecto de Investigación "Searching for MobileNetV3"  https://paperswithcode.com/paper/searching-for-mobilenetv3
 
 - Andrew Howard
 - Mark Sandler
